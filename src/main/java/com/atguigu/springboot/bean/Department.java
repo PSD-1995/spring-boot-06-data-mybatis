@@ -5,6 +5,10 @@ package com.atguigu.springboot.bean;
  * @create 2021-03-05 20:59
  * @lastEdit 2021-03-05 20:59
  */
+
+/**
+ * 测试提交
+ */
 public class Department {
     private Integer id;
     private String departmentName;
